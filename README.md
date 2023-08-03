@@ -1,2 +1,4 @@
 # NWEN241-2023
 Assignments completed for NWEN241 - Systems Programming
+
+This course considers the issues raised when programming at a low-level, for example in embedded systems, OS system level, or network protocol stacks. It includes an introduction to C language programming and motivating examples related to a wide variety of applications of system programming. Course teaches how to use the appropriate tools for compiling/debugging C and C++ programs. Write C programs using pointers and arrays, user-defined data types, input/output operations, bit-level operations, and user-defined and library routines. Understand the differences between C and C++ as well as write programs using stream input/output classes, vectors and templates. Use or understand the main techniques of dynamic memory management in C and C++. Strucutre larger programs in multiple files. Understand the difference between application software and system software.
